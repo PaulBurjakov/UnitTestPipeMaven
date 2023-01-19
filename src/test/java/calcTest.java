@@ -11,6 +11,7 @@ class calcTest {
 
     @Test
     public void testFindMaxErr(){
+        //AHAAAHAHAAAAAA
         assertEquals(-3,calc.findMax(new int[]{2}));
     }
 }
